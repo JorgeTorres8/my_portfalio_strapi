@@ -9,8 +9,8 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
+    "dotenv": "^16.3.1",
     "strapi": "3.6.8",
     "strapi-admin": "3.6.8",
     "strapi-connector-mongoose": "3.6.8",
